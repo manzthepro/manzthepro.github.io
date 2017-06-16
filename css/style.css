@@ -1,0 +1,20 @@
+h1{
+	color:#000000;
+}
+
+body{
+	background: lightblue;
+	text-align: center;
+}
+
+p{
+	color:#000000;
+}
+
+.navbar-inverse .navbar-brand{
+        background: blue;
+}
+
+.navbar-inverse{
+	background: blue;
+}
